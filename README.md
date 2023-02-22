@@ -196,3 +196,11 @@ Clock gating checks Design file,
 
 ##### OUTPUT:
 ![image](https://user-images.githubusercontent.com/78219141/220638764-b7443fb4-733e-4f55-89dd-65608ec6b9da.png)
+
+## References
+##### 1) OpenSTA Manual
+##### 2) OpenSTA installation guide
+##### 3)https://github.com/Anmol-wq/VSD-IAT-Sign-off-Timing-Analysis---Basics-to-Advanced
+
+## Acknowledgement
+##### Finally, I would like to express my sincere gratitude to Kunal Ghosh{Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.} and Vikas Sachdeva {Senior Director, Product Strategy and Business Development at Real Intent} for tremendous assistance in planning and presenting this workshop on SIGN-OFF-TIMING-ANALYSIS-using-OpenLane-SKY130 organised by VSD. The workshop was excellent and well designed, this workshop taught me a lot of new things about the design timing analysis using OpenSTA, open source tool.   
